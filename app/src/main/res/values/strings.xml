@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Kamusku</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_nav_bar">KAMUSKU</string>
+    <string name="indonesia_to_english">Indonesia to English</string>
+    <string name="english_to_indonesia">English to Indonesia</string>
+    <string name="loading">loading</string>
+
+    <string name="app_first_run">first_run</string>
+    <string name="kata">Aku</string>
+    <string name="terjemahan">I am</string>
+    <string name="type_something">Type something...</string>
+    <string name="indo_to_english">Indonesia to English</string>
+    <string name="english_to_indo">English to Indonesia</string>
+</resources>
